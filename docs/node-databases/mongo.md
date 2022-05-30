@@ -4,10 +4,11 @@ Para conectar o node com o mongo vamos usar o docker para facilitar o processo, 
 
 ## Passo a passo
 
-1. Instale o docker na sua máquina usando esse
-   **[link do site do docker](https://www.docker.com/get-started/)**
+1. Instale o docker na sua máquina usando o primeiro tutorial nessa sessão.
 
 1. Instale o mongo compass (uma ferramenta para gerenciar mongodb) **[nesse link](https://www.mongodb.com/download-center/compass)**
+
+![mongo compass](./assets/mongo.png)
 
 1. Para iniciar o docker abra seu terminal e execute o comando a seguir. Ele vai criar um container do docker, que vai rodar o mongo.
 

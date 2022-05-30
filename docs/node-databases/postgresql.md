@@ -4,8 +4,11 @@ Para facilitar a sua vida em realizar esse tutorial vamos usar o docker, já que
 
 ## Passo a passo
 
-1. Instale o docker na sua máquina usando esse
-   [link do docker](https://www.docker.com/get-started/)
+1. Instale o docker na sua máquina usando o primeiro tutorial nessa sessão.
+
+1. **[ Opcional ]** Caso você queira um software para interagir com a sua database, instale o [pgAdmin4](https://www.pgadmin.org/download/).
+
+![pgadmin4](./assets/postgres.png)
 
 1. Para iniciar o docker abra seu terminal e execute o comando a seguir. Ele vai criar um container do docker, que vai rodar o postgre.
 

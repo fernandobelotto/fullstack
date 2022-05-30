@@ -6,6 +6,10 @@
 
 /* You can override the default Infima variables here. */
 
+#__docusaurus {
+  height: 100vh !important;
+}
+
 :root {
   --ifm-color-primary: #0B1923;
   --ifm-color-primary-dark: #0B1923;
